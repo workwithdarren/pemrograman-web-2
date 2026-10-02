@@ -1,0 +1,3 @@
+Halo, ini tes file.
+ada 3 baris.
+ini baris terakhir.
